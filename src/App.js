@@ -16,7 +16,7 @@ class App extends Component {
     return (
       <div className="grid-container">
         <header>
-          <a href="/">SUKABUMI-SHOP</a>
+          <a href="/">AZMIE-ONLINE</a>
         </header>
         <main>
           <div className="content">
