@@ -1,0 +1,69 @@
+{
+    "products": [
+        {
+            "_id":"kemeja1",
+            "title": "Kemeja 1",
+            "image": "/images/kemeja1.jpg",
+            "description": "Kemeja bahan lembut kualitas terbaik",
+            "price": 100000,
+            "availableSizes":["M", "L", "XL"]
+        },
+        {
+            "_id":"kemeja2",
+            "title": "Kemeja 2",
+            "image": "/images/kemeja2.jpg",
+            "description": "Kemeja buat santai bahan lembut kualitas terbaik",
+            "price": 120000,
+            "availableSizes":["S", "M", "L", "XL"]
+        },
+        {
+            "_id":"kemeja3",
+            "title": "Kemeja 3",
+            "image": "/images/kemeja3.jpg",
+            "description": "Kemeja bahan lembut, adem, nyaman kualitas terbaik",
+            "price": 130000,
+            "availableSizes":["M", "L", "XL", "XXL"]
+        },
+        {
+            "_id":"kemeja4",
+            "title": "Kemeja 4",
+            "image": "/images/kemeja11.jpg",
+            "description": "Kemeja bahan lembut kualitas terbaik",
+            "price": 110000,
+            "availableSizes":["M", "L", "XL"]
+        },
+        {
+            "_id":"kemeja5",
+            "title": "Kemeja 5",
+            "image": "/images/kemeja5.jpg",
+            "description": "Kemeja bahan lembut kualitas terbaik",
+            "price": 90000,
+            "availableSizes":["M", "L"]
+        },
+        {
+            "_id":"kemeja6",
+            "title": "Kemeja 6",
+            "image": "/images/kemeja6.jpg",
+            "description": "Kemeja bahan lembut kualitas terbaik",
+            "price": 80000,
+            "availableSizes":["S", "M", "L"]
+        },
+        {
+            "_id":"kemeja7",
+            "title": "Kemeja 7",
+            "image": "/images/kemeja10.jpg",
+            "description": "Kemeja bahan lembut kualitas terbaik",
+            "price": 150000,
+            "availableSizes":["S","M", "L", "XL", "XXL"]
+        },
+        {
+            "_id":"kemeja8",
+            "title": "Kemeja 8",
+            "image": "/images/kemeja8.jpg",
+            "description": "Kemeja bahan lembut kualitas terbaik",
+            "price": 85000,
+            "availableSizes":["S", "M", "L"]
+        }
+
+    ]
+}
