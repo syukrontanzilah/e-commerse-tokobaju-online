@@ -2,7 +2,7 @@
     "products": [
         {
             "_id":"kemeja1",
-            "title": "Kemeja 1",
+            "title": "Kemeja Kotak blue wheat 987LKI",
             "image": "/images/kemeja1.jpg",
             "description": "Kemeja bahan lembut kualitas terbaik",
             "price": 400000,
@@ -10,7 +10,7 @@
         },
         {
             "_id":"kemeja2",
-            "title": "Kemeja 2",
+            "title": "Kemeja Blue Version 09865KJ",
             "image": "/images/kemeja2.jpg",
             "description": "Kemeja buat santai bahan lembut kualitas terbaik",
             "price": 320000,
@@ -18,7 +18,7 @@
         },
         {
             "_id":"kemeja3",
-            "title": "Kemeja 3",
+            "title": "Kemeja Jeans Pendek 987YT",
             "image": "/images/kemeja3.jpg",
             "description": "Kemeja bahan lembut, adem, nyaman kualitas terbaik",
             "price": 230000,
