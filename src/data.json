@@ -26,7 +26,7 @@
         },
         {
             "_id":"kemeja4",
-            "title": "Kemeja 4",
+            "title": "Kemeja Jeans Blue navi 786YOP",
             "image": "/images/kemeja9.jpg",
             "description": "Kemeja bahan lembut kualitas terbaik",
             "price": 210000,
@@ -34,7 +34,7 @@
         },
         {
             "_id":"kemeja5",
-            "title": "Kemeja 5",
+            "title": "Kemeja Jeans Hight Class 990TFF",
             "image": "/images/kemeja5.jpg",
             "description": "Kemeja bahan lembut kualitas terbaik",
             "price": 490000,
@@ -42,7 +42,7 @@
         },
         {
             "_id":"kemeja6",
-            "title": "Kemeja 6",
+            "title": "Kemeja White Leaf pendek",
             "image": "/images/kemeja6.jpg",
             "description": "Kemeja bahan lembut kualitas terbaik",
             "price": 180000,
@@ -50,15 +50,15 @@
         },
         {
             "_id":"kemeja7",
-            "title": "Kemeja 7",
+            "title": "Kemeja Light gray 708LLOP",
             "image": "/images/kemeja10.jpg",
             "description": "Kemeja bahan lembut kualitas terbaik",
-            "price": 150000,
+            "price": 198000,
             "availableSizes":["S","M", "L", "XL", "XXL"]
         },
         {
             "_id":"kemeja8",
-            "title": "Kemeja 8",
+            "title": "Kemeja Jeans Hight Class 009PPL",
             "image": "/images/kemeja8.jpg",
             "description": "Kemeja bahan lembut kualitas terbaik",
             "price": 285000,
@@ -66,7 +66,7 @@
         },
         {
             "_id":"kaos1",
-            "title": "Kaos 1",
+            "title": "Kaos Mugabe White 0012",
             "image": "/images/kaos1.jpg",
             "description": "Kemeja bahan lembut kualitas terbaik",
             "price": 85000,
